@@ -4,7 +4,7 @@
 	"id":	"2ce8896a-a8a2-477a-8449-18773c7b87cb",
 	"author":	"Carl Bass",
 	"description":	{
-		"":	""
+		"Fusion add-in that maps a surfaces parametric (u,v) space to (x,y) coordinates":	""
 	},
 	"version":	"",
 	"runOnStartup":	false,
